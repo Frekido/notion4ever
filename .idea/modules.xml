@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../notion-api-course/FreekNotion4ever/.idea/FreekNotion4ever.iml" filepath="$PROJECT_DIR$/../notion-api-course/FreekNotion4ever/.idea/FreekNotion4ever.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../notion-api-course/Notion-Api-CourseFreek/.idea/notion-api-course.iml" filepath="$PROJECT_DIR$/../notion-api-course/Notion-Api-CourseFreek/.idea/notion-api-course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/notion4everFreek.iml" filepath="$PROJECT_DIR$/.idea/notion4everFreek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../pythonProject2/.idea/pythonProject2.iml" filepath="$PROJECT_DIR$/../../pythonProject2/.idea/pythonProject2.iml" />
+    </modules>
+  </component>
+</project>
