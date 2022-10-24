@@ -35,7 +35,7 @@ jobs:
         with:
           # HERE, YOU NEED TO PLACE YOUR REPOSITORY
           repository: 'Frekido/Frekido.github.io'
-          # TARGET BRANCH
+          # TARGET BRANCH heb zelf origin/ toegevoegd op basis van https://github.com/actions/checkout/issues/391
           ref: origin/main
           # THE FOLDER, WHERE NOTION4EVER EXPORTS YOUR CONTENT BY DEFAULT
           path: _site
